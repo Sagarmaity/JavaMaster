@@ -10,7 +10,7 @@ int Thirdnumber = Integer.MIN_VALUE;
         System.out.println("the minimum value of integer : " + Thirdnumber);
 
         System.out.println(" -1 from  minimum value  : " +(Thirdnumber -1)); // if we -1 from minimum value the result equal to maximum value.
-        System.out.println(" +1 from  minimum value  : " +(Thirdnumber +1)); // that happend opposite.
+        System.out.println(" +1 to  maximum value  : " +(SecondNumber +1)); // that happend opposite.
         System.out.println("Integer value range (" + SecondNumber +" to "+Thirdnumber +")");
     }
 }
