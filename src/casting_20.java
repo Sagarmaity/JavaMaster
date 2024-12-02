@@ -15,7 +15,7 @@ public class casting_20 {
         System.out.println("after casting value is "+myfvalue);
         System.out.println("________________________________________________");
 
-
+//casting from char to int
         char firstchar = 'g';
         int scnumber = (char)firstchar;
         System.out.println("before casting value is " + firstchar);
