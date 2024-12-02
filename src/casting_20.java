@@ -1,6 +1,6 @@
 public class casting_20 {
     public static  void  main(String[]args){
-        int firsInt = Integer.MAX_VALUE;
+
 
         float myfloatvalue =  865.86f;
         int myvalue = (int) myfloatvalue;
